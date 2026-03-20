@@ -1,0 +1,11 @@
+Step 1: Open Project Folder directly with VSCode
+
+Step 2: Create Environment -> python -m venv .venv
+
+Step 3: Activate Environment -> .venv\Scripts\activate
+
+Step 4: Upgrade pip -> python -m pip install --upgrade pip
+
+Step 5: Install requirements -> pip install -r requirements.txt
+
+Step 6: Run the App -> streamlit run app.py
